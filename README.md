@@ -1,4 +1,4 @@
-<h1 align="center">NIT AP ATTENDANCE</h1>
+<h3 align="center">NIT AP ATTENDANCE</h3>
 <!--p align="center">NIST FRVT Certified, Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection</p>
 
 <p align="center">
