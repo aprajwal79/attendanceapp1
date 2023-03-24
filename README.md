@@ -1,5 +1,5 @@
-<h1 align="center">Mask-Aware Face Recognition SDK For Android</h1>
-<p align="center">NIST FRVT Certified, Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection</p>
+<h1 align="center">NIT AP ATTENDANCE</h1>
+<!--p align="center">NIST FRVT Certified, Fast, Accurate, Mask-Aware Face Recognition SDK with Liveness Detection</p>
 
 <p align="center">
 <a target="_blank" href="mailto:contact@faceonlive.com"><img src="https://img.shields.io/badge/email-contact@faceonlive.com-blue.svg?logo=gmail " alt="www.faceonlive.com"></a>&emsp;
@@ -27,4 +27,4 @@ https://user-images.githubusercontent.com/91896009/137511577-57d95888-0157-44aa-
 ## :clap:  Supporters
 [![Stargazers repo roster for @faceonlive/Mask-Aware-Face-Recognition-SDK-Android](https://reporoster.com/stars/faceonlive/Mask-Aware-Face-Recognition-SDK-Android)](https://github.com/faceonlive/Mask-Aware-Face-Recognition-SDK-Android/stargazers)
 [![Forkers repo roster for @faceonlive/Mask-Aware-Face-Recognition-SDK-Android](https://reporoster.com/forks/faceonlive/Mask-Aware-Face-Recognition-SDK-Android)](https://github.com/faceonlive/Mask-Aware-Face-Recognition-SDK-Android/network/members)
-<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p-->
