@@ -241,7 +241,7 @@ class CameraActivity : AppCompatActivity() {
             if(exists == true) {
                 sendMessage(1, 1)   //success
             } else {
-                if(System.currentTimeMillis() - startVerifyTime > 3000) {
+                if(System.currentTimeMillis() - startVerifyTime > 10000) {
                     sendMessage(1, 0)   //fail
                 }
             }
